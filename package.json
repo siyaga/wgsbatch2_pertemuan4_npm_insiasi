@@ -1,0 +1,12 @@
+{
+  "name": "wgsbatch2_pertemuan4_npm_insiasi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adi Riyanto",
+  "license": "ISC"
+}
