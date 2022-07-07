@@ -50,6 +50,7 @@ rl.question('What your name? ',(name) => {
     //Membuat Validasi noHP
     const validasiNoHP = ()=>{
         rl.question('what your number phone? ',(nohp)=> {
+        
             if(!validator.isMobilePhone(nohp)){
                 console.log('Number phone Salah !!');
                 validasiNoHP();
